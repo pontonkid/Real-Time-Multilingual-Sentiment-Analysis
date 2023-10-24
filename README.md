@@ -21,6 +21,9 @@ Furthermore, this project presents an opportunity to delve into the intricacies 
 ## Tools Used 
 
 -Programming Language: Python
+
 -Automatic Speech Recognition (ASR) and Language Detection: Whisper from OpenAI
+
 -Pre-trained Model: Utilized a pre-trained model from the Hugging Face Model Hub.
+
 - User Interface: Integrated Gradio for the user interface and interaction. 
